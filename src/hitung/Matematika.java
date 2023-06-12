@@ -25,7 +25,5 @@ public class Matematika {
     //membuat method setPembagian
     public double setPembagian(){
         return bil1 / bil2;
-    }
-    
-    
+    }    
 }
